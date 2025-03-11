@@ -36,11 +36,13 @@ Conversor de Moedas
 Gerador de Senhas
     Gera senhas seguras e aleatórias com tamanho definido pelo usuário.
 
+
 🛠️ Tecnologias
 
 Dart (linguagem de programação)
 Pacotes utilizados:
     http (para requisições web)
+
 
 📚 Como Executar o Projeto
 
